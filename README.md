@@ -1,2 +1,2 @@
 # development-methodologies
-A.A. 2024-2025
+A.Y. 2024-2025
